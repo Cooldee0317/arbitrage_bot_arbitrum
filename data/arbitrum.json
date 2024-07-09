@@ -1,0 +1,17 @@
+{
+    "routers": [
+      { "dex": "pancakeswap", "address": "0x1011CFdeC046DfDE0Ea555BbCBE8F6f6F9E9D88e" },
+      { "dex": "apeswap", "address": "0xcFA621e3e876E298087bb20d73Fcf6a8A23e553A" },
+      { "dex": "biswap", "address": "0x3a0C7beA28Ede891709F48da4081761429639B54" },
+      { "dex": "babyswap", "address": "0x322a9d965a6BD1516CEB1267dCd66B8d5a291A78" },
+      { "dex": "fastswap", "address": "0x21209AEB5a61943168f2F5057f35d44E40D18383" },
+      { "dex": "mdex", "address": "0x7DAad2bdb2E534F7d230dbd510Ced8d04F41E35E" }
+    ],
+    "baseAssets": [
+      { "sym": "BNB","address": "0xbb60c518D7E62b29A147919b1F0fC2c95eb6A285" },
+      { "sym": "ETH", "address": "0x217Bbe3Ed150987Fa2AAE2453EdC252D7fd75468" },
+      { "sym": "BUSD", "address": "0x4f64c63c82c617f195dc4765c9713e83608e9343" },
+      { "sym": "USDT", "address": "0x55e9ef7e0d4ee805c64442824f99288c4ca66bc5" },
+      { "sym": "USDC", "address": "0x3a0c7bea28ede891709f48da4081761429639b54" }
+    ]
+  }
